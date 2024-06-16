@@ -42,6 +42,8 @@ The project is organized into four phases, with each phase containing specific d
 - **Requirements Document**: Outlines the initial requirements and objectives for the Portfolio Management System.
 - **Schema Diagram**: Provides the initial database schema used for the project.
 - **Solutions Document**: Contains solutions to initial problems and tasks defined for the first phase.
+- file:///home/rohan/Documents/Desktop/sem3/DNA/project/uploading%20dna%20project/Portfolio-Management-System/images/schema_phase1.jpg
+
 
 ### Phase 2
 
