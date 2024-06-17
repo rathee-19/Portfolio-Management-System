@@ -93,4 +93,7 @@ The source code directory contains the scripts necessary for running the system.
 
 ## Conclusion
 
-This repository provides a comprehensive overview of the development of a Portfolio Management System, from initial requirements gathering to final implementation.
+This repository provides a comprehensive overview of the development of a Portfolio Management System, from initial requirements gathering to final implementation. T
+- **Requirements Document**: Outlines the initial requirements and objectives for the Portfolio Management System.
+- **Schema Diagram**: Provides the initial database schema used for the project.
+- **Solutions Document**: Contains solutions to initial problems and tasks defined for the first phase.
