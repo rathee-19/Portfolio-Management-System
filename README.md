@@ -81,7 +81,9 @@ This report encapsulates the final implementation details by Group 38, offering 
 
 A video link is provided to demonstrate the final code implementation and explain the functionalities of the Portfolio Management System. This video is an essential resource for understanding how the system works in practice.
 
-Final Implementation Video
+[![Final video demonstration](https://drive.google.com/file/d/1dAHT7uFzmomgHnBf8o44j1I2yg2zqCJM/view?usp=drive_link
+)
+
 
 ### Source Code
 
