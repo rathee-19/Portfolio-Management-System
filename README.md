@@ -33,12 +33,14 @@ The project is organized into four phases, with each phase containing specific d
 - **Requirements Document**: Details the updated requirements and additional features to be implemented in the second phase.
 - **ER Diagram**: The entity-relationship diagram representing the database schema, showing all entities, attributes, and relationships.
 - **Solutions Document**: Includes solutions and implementations for the tasks and requirements defined in the second phase.
+- ![alt text](https://github.com/rathee-19/Portfolio-Management-System/blob/main/images/er_diagram_phase2.jpg?raw=true)
 
 ### Phase 3
 
 - **Requirements Document**: Lists the further refined requirements and enhancements for the third phase.
 - **Normalized Schema**: Snapshots of the relational model after conversion to 1NF, 2NF, and 3NF, with explanations for each stage.
 - **Solutions Document**: Documents the solutions and progress made in the third phase.
+- ![alt text](https://github.com/rathee-19/Portfolio-Management-System/blob/main/images/normalized_schema_phase3.jpg?raw=true)
 
 ### Phase 4
 
