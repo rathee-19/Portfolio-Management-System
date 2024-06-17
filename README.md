@@ -25,6 +25,8 @@ The project is organized into four phases, with each phase containing specific d
 - **Requirements Document**: Outlines the initial requirements and objectives for the Portfolio Management System.
 - **Schema Diagram**: Provides the initial database schema used for the project.
 - **Solutions Document**: Contains solutions to initial problems and tasks defined for the first phase.
+- ![alt text](https://github.com/rathee-19/Portfolio-Management-System/blob/main/images/schema_phase1.jpg?raw=true)
+
 
 ### Phase 2
 
